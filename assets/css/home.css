@@ -1,0 +1,18 @@
+/* Specific styles for the home page */
+#about-me, #my-projects {
+  margin-bottom: 2rem;
+}
+
+#about-me h2, #my-projects h2 {
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+}
+
+#about-me p, #my-projects p {
+  max-width: 600px;
+  margin: auto;
+}
+
+#my-projects .button {
+  margin-top: 1rem;
+}
